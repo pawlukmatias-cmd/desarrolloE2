@@ -1,4 +1,5 @@
-# Ingresamos distintos tipos de datos
+# Ingresamos distintos tipos de datos:
+
 nombre = "Matias"
 print(type(nombre))
 

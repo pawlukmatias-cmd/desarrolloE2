@@ -43,3 +43,15 @@ print(cadena_minusculas)
 
 nombre_2 = "diego balbuena"
 cadena_capitalizada = nombre_2.capitalize()
+
+cadena_tabulada = "Hola\mundo"
+print(cadena_tabulada)
+
+cadena_tabulada_2 = "\tHola\tinfo"
+print(cadena_tabulada_2)
+
+comillas_escaladas_simples = "Entonces 'creemos' que"
+print(comillas_escaladas_simples)
+
+comillas_escaladas_dobles = "Entonces \"suponemos\" lo siguiente"
+print(comillas_escaladas_dobles)
